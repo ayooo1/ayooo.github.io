@@ -1,3 +1,15 @@
 title {
-  color: DarkOlive
+  color: DarkOlive;
+  font-size: 40px;
  }
+
+h1 {
+  color: red;
+  font-size: 40px;
+  font-family: Georgia, serif;
+}
+
+h2 {
+  color: #ff4f00
+  font-size: 20px;
+}
